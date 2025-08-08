@@ -6,7 +6,7 @@
     "volumes": 106,
     "ongoing": true,
     "releaseDate": "1997-07-22",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/one_piece_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/one_piece.jpg",
     "genre": "Shonen",
     "tags": ["avontuur", "actie", "piraten"],
     "authorId": "A1"
@@ -18,7 +18,7 @@
     "volumes": 39,
     "ongoing": true,
     "releaseDate": "2014-07-07",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/my_hero_academia_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/my_hero_academia.jpg",
     "genre": "Shonen",
     "tags": ["superhelden", "actie", "school"],
     "authorId": "A2"
@@ -42,7 +42,7 @@
     "volumes": 13,
     "ongoing": true,
     "releaseDate": "2019-03-25",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/spy_x_family_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/spyxfamily.jpg",
     "genre": "Shonen",
     "tags": ["spionage", "komedie", "actie"],
     "authorId": "A4"
@@ -54,7 +54,7 @@
     "volumes": 12,
     "ongoing": false,
     "releaseDate": "2003-12-01",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/death_note_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/death_note.jpg",
     "genre": "Shonen",
     "tags": ["psychologisch", "mysterie", "thriller"],
     "authorId": "A5"
@@ -66,7 +66,7 @@
     "volumes": 3,
     "ongoing": true,
     "releaseDate": "2013-02-22",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/ihear_the_sunspot_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/i_hear_the_sunspot.jpg",
     "genre": "BL",
     "tags": ["romantiek", "slice of life", "drama"],
     "authorId": "A6"
@@ -78,7 +78,7 @@
     "volumes": 27,
     "ongoing": false,
     "releaseDate": "2001-07-12",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/fullmetal_alchemist_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/fullmetal_alchemist.jpg",
     "genre": "Shonen",
     "tags": ["fantasie", "avontuur", "broederschap"],
     "authorId": "A7"
@@ -90,7 +90,7 @@
     "volumes": 23,
     "ongoing": false,
     "releaseDate": "1998-07-18",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/fruits_basket_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/fruit_basket.jpg",
     "genre": "Shojo",
     "tags": ["romantiek", "fantasie", "drama"],
     "authorId": "A8"
@@ -102,7 +102,7 @@
     "volumes": 34,
     "ongoing": false,
     "releaseDate": "2009-09-09",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assests/attack_on_titan.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/attack_on_titan.jpg",
     "genre": "Shonen",
     "tags": ["actie", "fantasie", "apocalyps"],
     "authorId": "A9"
@@ -114,7 +114,7 @@
     "volumes": 7,
     "ongoing": true,
     "releaseDate": "2013-04-30",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/given_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/given.png",
     "genre": "BL",
     "tags": ["muziek", "romantiek", "drama"],
     "authorId": "A10"
