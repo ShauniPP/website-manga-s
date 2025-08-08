@@ -30,7 +30,7 @@
     "volumes": 11,
     "ongoing": false,
     "releaseDate": "2014-04-17",
-    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/main/assets/wotakoi_cover.jpg",
+    "coverImage": "https://raw.githubusercontent.com/ShauniPP/website-manga-s/refs/heads/main/assests/wotakoi.jpg",
     "genre": "Josei",
     "tags": ["romantiek", "komedie", "slice of life"],
     "authorId": "A3"
