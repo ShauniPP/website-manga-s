@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "One Piece",
+    "description": "Een episch piratenavontuur waarin Monkey D. Luffy en zijn bemanning de Grand Line bevaren op zoek naar de legendarische schat, de One Piece.",
+    "volumes": 106,
+    "ongoing": true,
+    "releaseDate": "1997-07-22",
+    "coverImage": "assets/one_piece_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["avontuur", "actie", "piraten"],
+    "authorId": "A1"
+  },
+  {
+    "id": 2,
+    "title": "My Hero Academia",
+    "description": "In een wereld waar bijna iedereen superkrachten heeft, volgt het verhaal Izuku Midoriya die een held wil worden ondanks dat hij zonder Quirk is geboren.",
+    "volumes": 39,
+    "ongoing": true,
+    "releaseDate": "2014-07-07",
+    "coverImage": "assets/my_hero_academia_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["superhelden", "actie", "school"],
+    "authorId": "A2"
+  },
+  {
+    "id": 3,
+    "title": "Wotakoi: Love is Hard for Otaku",
+    "description": "Een romantische komedie over de relatie van twee kantorenmedewerkers die beide grote otaku zijn.",
+    "volumes": 11,
+    "ongoing": false,
+    "releaseDate": "2014-04-17",
+    "coverImage": "assets/wotakoi_cover.jpg",
+    "genre": "Josei",
+    "tags": ["romantiek", "komedie", "slice of life"],
+    "authorId": "A3"
+  },
+  {
+    "id": 4,
+    "title": "Spy x Family",
+    "description": "Een meester-spion moet een nepgezin vormen om een missie te volbrengen, maar ontdekt dat zijn nieuwe 'familie' hun eigen geheimen heeft.",
+    "volumes": 13,
+    "ongoing": true,
+    "releaseDate": "2019-03-25",
+    "coverImage": "assets/spy_x_family_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["spionage", "komedie", "actie"],
+    "authorId": "A4"
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "description": "Light Yagami vindt een bovennatuurlijk notitieboek waarmee hij mensen kan doden door hun naam op te schrijven.",
+    "volumes": 12,
+    "ongoing": false,
+    "releaseDate": "2003-12-01",
+    "coverImage": "assets/death_note_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["psychologisch", "mysterie", "thriller"],
+    "authorId": "A5"
+  },
+  {
+    "id": 6,
+    "title": "I Hear the Sunspot",
+    "description": "Een ontroerend verhaal over vriendschap en liefde tussen twee studenten, waarvan één slechthorend is.",
+    "volumes": 3,
+    "ongoing": true,
+    "releaseDate": "2013-02-22",
+    "coverImage": "assets/ihear_the_sunspot_cover.jpg",
+    "genre": "BL",
+    "tags": ["romantiek", "slice of life", "drama"],
+    "authorId": "A6"
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist",
+    "description": "Twee broers gebruiken alchemie om het lichaam van hun moeder terug te brengen, maar betalen een zware prijs.",
+    "volumes": 27,
+    "ongoing": false,
+    "releaseDate": "2001-07-12",
+    "coverImage": "assets/fullmetal_alchemist_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["fantasie", "avontuur", "broederschap"],
+    "authorId": "A7"
+  },
+  {
+    "id": 8,
+    "title": "Fruits Basket",
+    "description": "Tohru Honda raakt betrokken bij een familie die wordt vervloekt om in dieren van de Chinese dierenriem te veranderen.",
+    "volumes": 23,
+    "ongoing": false,
+    "releaseDate": "1998-07-18",
+    "coverImage": "assets/fruits_basket_cover.jpg",
+    "genre": "Shojo",
+    "tags": ["romantiek", "fantasie", "drama"],
+    "authorId": "A8"
+  },
+  {
+    "id": 9,
+    "title": "Attack on Titan",
+    "description": "De mensheid leeft in ommuurde steden om zich te beschermen tegen reusachtige humanoïde wezens, Titans.",
+    "volumes": 34,
+    "ongoing": false,
+    "releaseDate": "2009-09-09",
+    "coverImage": "assets/attack_on_titan_cover.jpg",
+    "genre": "Shonen",
+    "tags": ["actie", "fantasie", "apocalyps"],
+    "authorId": "A9"
+  },
+  {
+    "id": 10,
+    "title": "Given",
+    "description": "Vier jonge mannen vormen een band en ontdekken liefde en verlies terwijl ze hun muziek maken.",
+    "volumes": 7,
+    "ongoing": true,
+    "releaseDate": "2013-04-30",
+    "coverImage": "assets/given_cover.jpg",
+    "genre": "BL",
+    "tags": ["muziek", "romantiek", "drama"],
+    "authorId": "A10"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "authorId": "A1",
+    "name": "Eiichiro Oda",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1975
+  },
+  {
+    "authorId": "A2",
+    "name": "Kohei Horikoshi",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1986
+  },
+  {
+    "authorId": "A3",
+    "name": "Fujita",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1988
+  },
+  {
+    "authorId": "A4",
+    "name": "Tatsuya Endo",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1980
+  },
+  {
+    "authorId": "A5",
+    "name": "Tsugumi Ohba & Takeshi Obata",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1969
+  },
+  {
+    "authorId": "A6",
+    "name": "Yuki Fumino",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1980
+  },
+  {
+    "authorId": "A7",
+    "name": "Hiromu Arakawa",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1973
+  },
+  {
+    "authorId": "A8",
+    "name": "Natsuki Takaya",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1973
+  },
+  {
+    "authorId": "A9",
+    "name": "Hajime Isayama",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1986
+  },
+  {
+    "authorId": "A10",
+    "name": "Natsuki Kizu",
+    "nationality": "Japans",
+    "active": true,
+    "birthYear": 1989
+  }
+]
